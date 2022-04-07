@@ -1,2 +1,3 @@
 hola
 vamos a crear un clonficto con github
+haber que pasa con el conflicto
